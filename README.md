@@ -1,0 +1,2 @@
+# Legato
+Software engineering project
